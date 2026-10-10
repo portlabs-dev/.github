@@ -1,3 +1,9 @@
+<p>
+  <a href="https://portlabs.dev">
+    <img src="https://raw.githubusercontent.com/portlabs-dev/.github/profile%2Fpublic-homepage/docs/images/portlabs-logo.png" alt="PortLabs logo" width="96">
+  </a>
+</p>
+
 # PortLabs
 
 ### Your vision, made real. Built to keep moving.
@@ -5,6 +11,12 @@
 We build practical AI systems, reliable cloud platforms, and business software — from the first working prototype to deployment and day-to-day operations.
 
 [Explore PortLabs](https://portlabs.dev) · [Discuss your project](mailto:contact@portlabs.dev)
+
+<p>
+  <a href="https://portlabs.dev">
+    <img src="https://raw.githubusercontent.com/portlabs-dev/.github/profile%2Fpublic-homepage/docs/images/portlabs-website-preview.png" alt="Preview of the public PortLabs website" width="320">
+  </a>
+</p>
 
 ## What we build
 
